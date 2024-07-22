@@ -9,3 +9,4 @@ C:\Blazor\MyFirstBlazor\Shared\obj\Debug\net6.0\MyFirstBlazor.Shared.dll
 C:\Blazor\MyFirstBlazor\Shared\obj\Debug\net6.0\refint\MyFirstBlazor.Shared.dll
 C:\Blazor\MyFirstBlazor\Shared\obj\Debug\net6.0\MyFirstBlazor.Shared.pdb
 C:\Blazor\MyFirstBlazor\Shared\obj\Debug\net6.0\ref\MyFirstBlazor.Shared.dll
+C:\Blazor\MyFirstBlazor\Shared\obj\Debug\net6.0\MyFirstBlazor.Shared.sourcelink.json

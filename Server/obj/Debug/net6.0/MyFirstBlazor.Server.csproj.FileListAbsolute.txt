@@ -51,3 +51,4 @@ C:\Blazor\MyFirstBlazor\Server\obj\Debug\net6.0\refint\MyFirstBlazor.Server.dll
 C:\Blazor\MyFirstBlazor\Server\obj\Debug\net6.0\MyFirstBlazor.Server.pdb
 C:\Blazor\MyFirstBlazor\Server\obj\Debug\net6.0\MyFirstBlazor.Server.genruntimeconfig.cache
 C:\Blazor\MyFirstBlazor\Server\obj\Debug\net6.0\ref\MyFirstBlazor.Server.dll
+C:\Blazor\MyFirstBlazor\Server\obj\Debug\net6.0\MyFirstBlazor.Server.sourcelink.json

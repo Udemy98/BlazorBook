@@ -825,3 +825,4 @@ C:\Blazor\MyFirstBlazor\Client\obj\Debug\net6.0\MyFirstBlazor.Client.dll
 C:\Blazor\MyFirstBlazor\Client\obj\Debug\net6.0\refint\MyFirstBlazor.Client.dll
 C:\Blazor\MyFirstBlazor\Client\obj\Debug\net6.0\MyFirstBlazor.Client.pdb
 C:\Blazor\MyFirstBlazor\Client\obj\Debug\net6.0\ref\MyFirstBlazor.Client.dll
+C:\Blazor\MyFirstBlazor\Client\obj\Debug\net6.0\MyFirstBlazor.Client.sourcelink.json
