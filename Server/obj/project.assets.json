@@ -1223,11 +1223,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Blazor\\MyFirstBlazor\\Server\\MyFirstBlazor.Server.csproj",
+      "projectUniqueName": "C:\\Users\\janko\\Source\\Repos\\BlazorBook\\Server\\MyFirstBlazor.Server.csproj",
       "projectName": "MyFirstBlazor.Server",
-      "projectPath": "C:\\Blazor\\MyFirstBlazor\\Server\\MyFirstBlazor.Server.csproj",
+      "projectPath": "C:\\Users\\janko\\Source\\Repos\\BlazorBook\\Server\\MyFirstBlazor.Server.csproj",
       "packagesPath": "C:\\Users\\janko\\.nuget\\packages\\",
-      "outputPath": "C:\\Blazor\\MyFirstBlazor\\Server\\obj\\",
+      "outputPath": "C:\\Users\\janko\\Source\\Repos\\BlazorBook\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\janko\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1245,11 +1245,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Blazor\\MyFirstBlazor\\Client\\MyFirstBlazor.Client.csproj": {
-              "projectPath": "C:\\Blazor\\MyFirstBlazor\\Client\\MyFirstBlazor.Client.csproj"
+            "C:\\Users\\janko\\Source\\Repos\\BlazorBook\\Client\\MyFirstBlazor.Client.csproj": {
+              "projectPath": "C:\\Users\\janko\\Source\\Repos\\BlazorBook\\Client\\MyFirstBlazor.Client.csproj"
             },
-            "C:\\Blazor\\MyFirstBlazor\\Shared\\MyFirstBlazor.Shared.csproj": {
-              "projectPath": "C:\\Blazor\\MyFirstBlazor\\Shared\\MyFirstBlazor.Shared.csproj"
+            "C:\\Users\\janko\\Source\\Repos\\BlazorBook\\Shared\\MyFirstBlazor.Shared.csproj": {
+              "projectPath": "C:\\Users\\janko\\Source\\Repos\\BlazorBook\\Shared\\MyFirstBlazor.Shared.csproj"
             }
           }
         }
